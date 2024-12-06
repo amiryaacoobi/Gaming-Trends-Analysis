@@ -1,1 +1,1 @@
- [Project Report (Word)](https://docs.google.com/document/d/1W1MsJXOB0xq_E7z8ruflfien0g_WzYjzYBiAE9RttxY/edit?usp=sharing)
+This analysis examines video game popularity and profitability trends on the Steam platform from 2000 to 2019. By integrating data from Steam APIs and supplementary datasets, the project explores genre evolution, pricing strategies, and revenue models, employing Python for data processing and visualization.
